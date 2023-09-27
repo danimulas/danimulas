@@ -7,7 +7,7 @@ I`m currently colaborate with Frontend Development tasks.
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,html,css,react,nodejs,typescript,js" />
+    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,react,nodejs,typescript,js" />
   </a>
 </p>
 <p align="center">
@@ -26,6 +26,12 @@ I`m currently colaborate with Frontend Development tasks.
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,gitlab,docker" />
+  </a>
+</p>
+<p align="center">
+  <h6>More</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,c,bash" />
   </a>
 </p>
 <!--
