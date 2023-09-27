@@ -1,9 +1,15 @@
 ### Hi there!,Im Dani👋
-I`m currently studying Computer Engineering Degree at USAL. My interests include the design of APIs, big data,development of websites,and Artificial Intelligence.
+I am Dani, a 20 year old software engineer. My interests include the design of APIs, big data,development of websites,and Artificial Intelligence.
 I`m currently colaborate with Frontend Development tasks.
-
-
-
+### About me ⚡
+📚 Studying a computer engineering PhD at the University of Salamanca.
+###🛠 My tech stack(s)
+<p align="center">
+  <h6>FrontEnd</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vuejs,react,nodejs,typescript,express,css,html,js" />
+  </a>
+</p>
 <!--
 **danimulas/danimulas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
