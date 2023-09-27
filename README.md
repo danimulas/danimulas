@@ -7,7 +7,25 @@ I`m currently colaborate with Frontend Development tasks.
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,react,nodejs,typescript,express,css,html,js" />
+    <img src="https://skillicons.dev/icons?i=vuejs,html,css,react,nodejs,typescript,js" />
+  </a>
+</p>
+<p align="center">
+  <h6>BackEnd</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,python,java,postgres,mongodb" />
+  </a>
+</p>
+<p align="center">
+  <h6>Mobile</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift" />
+  </a>
+</p>
+<p align="center">
+  <h6>Tools</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker" />
   </a>
 </p>
 <!--
