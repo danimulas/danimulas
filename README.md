@@ -3,7 +3,7 @@ I am Dani, a 20 year old software engineer. My interests include the design of A
 I`m currently colaborate with Frontend Development tasks.
 ### About me ⚡
 📚 Studying a computer engineering PhD at the University of Salamanca.
-###🛠 My tech stack(s)
+### My tech stack(s)🛠
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
