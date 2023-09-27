@@ -25,7 +25,7 @@ I`m currently colaborate with Frontend Development tasks.
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker" />
+    <img src="https://skillicons.dev/icons?i=github,git,gitlab,docker" />
   </a>
 </p>
 <!--
