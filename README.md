@@ -1,4 +1,8 @@
-### Hi there,Im Dani👋
+### Hi there!,Im Dani👋
+I`m currently studying Computer Engineering Degree at USAL. My interests include the design of APIs, big data,development of websites,and Artificial Intelligence.
+I`m currently colaborate with Frontend Development tasks.
+
+
 
 <!--
 **danimulas/danimulas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
