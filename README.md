@@ -36,4 +36,9 @@ I`m currently colaborate with Frontend Development tasks.
 </p>
 
 ### Contact Me ✉
-<a href="https://www.linkedin.com/in/daniel-mulas-1a548228a/" a>
+<p align="center">
+  <h6>More</h6>
+  <a href="https://www.linkedin.com/in/daniel-mulas-1a548228a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
