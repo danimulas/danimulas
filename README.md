@@ -2,7 +2,7 @@
 I am Dani, a 20 year old software engineer. My interests include the design of APIs, big data,development of websites,and Artificial Intelligence.
 Currently colaborate with Frontend Development tasks.
 ### About me ⚡
-📚 Studying a computer engineering at the University of Salamanca.
+📚 Studying a computer engineering Degree at the University of Salamanca.
 <br />
 💻 Currently working at the research group BISITE
 ### My tech stack(s)🛠
