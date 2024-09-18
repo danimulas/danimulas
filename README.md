@@ -34,7 +34,7 @@ Currently colaborate with Frontend Development tasks.
 ### Contact Me ✉
 <p align="center">
   <h6></h6>
-  <a href="https://www.linkedin.com/in/daniel-mulas-fajardo-1a548228a/">
+  <a href="https://www.linkedin.com/in/danimulaas/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
