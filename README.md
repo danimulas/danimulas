@@ -1,4 +1,5 @@
 ### Hi there!,Im Dani👋
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 I am Dani, a 21 year old software engineer. My interests include the design of APIs, big data,development of websites,and Artificial Intelligence.
 Currently colaborate with Frontend Development tasks.
 ### About me ⚡
