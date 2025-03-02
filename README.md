@@ -1,7 +1,10 @@
 ### Hi there!,Im Dani👋
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width = 300px></picture>
-I am Dani, a 21 year old software engineer. My interests include the design of APIs, big data,development of websites,and Artificial Intelligence.
-Currently colaborate with Frontend Development tasks.
+I am Dani, a 21-year-old Software Engineer passionate about creating innovative and efficient solutions for real-world challenges.
+Currently studying Computer Engineering at the University of Salamanca (USAL), I have contributed to development projects
+focusing on SaaS architecture, API design, big data analytics, and web development. I excel in agile teams and am committed to
+continuous improvement, enabling me to deliver high-quality solutions that drive efficiency and growth.
+
 ### About me ⚡
 📚 Studying a computer engineering Degree at the University of Salamanca.
 <br />
