@@ -13,19 +13,19 @@ continuous improvement, enabling me to deliver high-quality solutions that drive
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,react,nodejs,typescript,js" />
+    <img src="https://skillicons.dev/icons?i=vuejs,vuetify,react,typescript,js,bootstrap,html,css" />
   </a>
 </p>
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,python,java,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,supabase,express,python,java,postgres,graphql,fastapi,mongodb" />
   </a>
 </p>
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,gitlab,docker" />
+    <img src="https://skillicons.dev/icons?i=github,git,gitlab,docker,figma" />
   </a>
 </p>
 <p align="center">
