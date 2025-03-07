@@ -13,7 +13,7 @@ continuous improvement, enabling me to deliver high-quality solutions that drive
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,vuetify,react,typescript,js,swift,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=vuejs,vuetify,react,pinia,vite,typescript,js,swift,bootstrap,html,css" />
   </a>
 </p>
 <p align="center">
