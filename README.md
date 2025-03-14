@@ -25,7 +25,7 @@ continuous improvement, enabling me to deliver high-quality solutions that drive
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,gitlab,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=github,git,postman,docker,figma" />
   </a>
 </p>
 <p align="center">
